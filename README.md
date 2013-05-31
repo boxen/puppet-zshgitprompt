@@ -3,7 +3,7 @@
 Adds some handy git status prompts to your zsh. Note that you'll have to
 activate these prompts yourself in your `~/.zshrc` file.
 
-[![Build Status](https://travis-ci.org/boxen/puppet-template.png?branch=master)](https://travis-ci.org/boxen/puppet-zshgitprompt)
+[![Build Status](https://travis-ci.org/paulcollinsiii/puppet-zshgitprompt.png?branch=master)](https://travis-ci.org/paulcollinsiii/puppet-zshgitprompt)
 
 ## Usage
 
