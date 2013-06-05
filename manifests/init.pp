@@ -12,7 +12,7 @@ class zshgitprompt {
 
   repository{
     "${boxen::config::datadir}/zshgitprompt":
-      source   => 'olivierverdier/zsh-git-prompt',
+      source   => 'paulcollinsiii/zsh-git-prompt',
       provider => 'git'
   }
 }
