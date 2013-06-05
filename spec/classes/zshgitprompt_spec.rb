@@ -12,7 +12,8 @@ describe 'zshgitprompt' do
 
   it do
     should contain_repository("/opt/boxen/data/zshgitprompt").with({
-      :source   => 'olivierverdier/zsh-git-prompt',
+#      :source   => 'olivierverdier/zsh-git-prompt',
+      :source   => 'paulcollinsiii/zsh-git-prompt',
       :provider => 'git'
     })
   end
